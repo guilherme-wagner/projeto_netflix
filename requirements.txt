@@ -1,5 +1,5 @@
 json
 urllib3
 pandas
-plotly==5.1.0
-streamlit==1.6.0
+plotly
+streamlit
